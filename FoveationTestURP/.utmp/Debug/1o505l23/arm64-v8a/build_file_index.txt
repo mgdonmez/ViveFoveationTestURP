@@ -1,0 +1,2 @@
+D:\UnityLibrary\Unity Projects\_BUILDS\HTC_VIVE\New folder\FoveationTestURP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\UnityLibrary\Unity Projects\_BUILDS\HTC_VIVE\New folder\FoveationTestURP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

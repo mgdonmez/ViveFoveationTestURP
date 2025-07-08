@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityLibrary\\Unity Projects\\_BUILDS\\HTC_VIVE\\New folder\\FoveationTestURP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAB9848-5712-E632-CE4F-2DCFE9490620}|VIVE.OpenXR.Samples.csproj|d:\\unitylibrary\\unity projects\\_builds\\htc_vive\\new folder\\foveationtesturp\\assets\\samples\\vive openxr plugin\\2.5.1\\vive openxr samples\\samples\\foveatedrendering\\scripts\\myfoveatedtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAB9848-5712-E632-CE4F-2DCFE9490620}|VIVE.OpenXR.Samples.csproj|solutionrelative:assets\\samples\\vive openxr plugin\\2.5.1\\vive openxr samples\\samples\\foveatedrendering\\scripts\\myfoveatedtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyFoveatedTest.cs",
+              "DocumentMoniker": "D:\\UnityLibrary\\Unity Projects\\_BUILDS\\HTC_VIVE\\New folder\\FoveationTestURP\\Assets\\Samples\\VIVE OpenXR Plugin\\2.5.1\\VIVE OpenXR Samples\\Samples\\FoveatedRendering\\Scripts\\MyFoveatedTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\VIVE OpenXR Plugin\\2.5.1\\VIVE OpenXR Samples\\Samples\\FoveatedRendering\\Scripts\\MyFoveatedTest.cs",
+              "ToolTip": "D:\\UnityLibrary\\Unity Projects\\_BUILDS\\HTC_VIVE\\New folder\\FoveationTestURP\\Assets\\Samples\\VIVE OpenXR Plugin\\2.5.1\\VIVE OpenXR Samples\\Samples\\FoveatedRendering\\Scripts\\MyFoveatedTest.cs",
+              "RelativeToolTip": "Assets\\Samples\\VIVE OpenXR Plugin\\2.5.1\\VIVE OpenXR Samples\\Samples\\FoveatedRendering\\Scripts\\MyFoveatedTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:04:40.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

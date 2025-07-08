@@ -1,0 +1,5 @@
+D:/UnityLibrary/Unity Projects/_BUILDS/HTC_VIVE/New folder/FoveationTestURP/.utmp/Debug/1o505l23/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/UnityLibrary/Unity Projects/_BUILDS/HTC_VIVE/New folder/FoveationTestURP/.utmp/Debug/1o505l23/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/UnityLibrary/Unity Projects/_BUILDS/HTC_VIVE/New folder/FoveationTestURP/.utmp/Debug/1o505l23/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/UnityLibrary/Unity Projects/_BUILDS/HTC_VIVE/New folder/FoveationTestURP/.utmp/Debug/1o505l23/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/UnityLibrary/Unity Projects/_BUILDS/HTC_VIVE/New folder/FoveationTestURP/.utmp/Debug/1o505l23/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
